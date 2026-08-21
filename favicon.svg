@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="UNDERWIRE">
+  <rect width="64" height="64" rx="12" fill="#0a0a0c"/>
+  <!-- taut wires -->
+  <g stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M12 20 H52" stroke="#f59e0b"/>
+    <path d="M12 32 H52" stroke="#ef4444"/>
+    <path d="M12 44 H52" stroke="#f59e0b"/>
+  </g>
+  <!-- the 'underwire' pluck -->
+  <path d="M20 32 q12 14 24 0" fill="none" stroke="#ececec" stroke-width="3" stroke-linecap="round"/>
+</svg>
